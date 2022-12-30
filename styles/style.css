@@ -142,7 +142,7 @@ i.fa-solid.fa-check {
 /* starting mini bananr section*/
 
 .bannar-container {
-    background-image: url(/images/watch.png), linear-gradient(90deg, #000FAC, hsl(0deg 0% 100%));
+    background-image: url(./images/watch.png), linear-gradient(90deg, #000FAC, hsl(0deg 0% 100%));
     height: 245px;
     background-repeat: no-repeat;
     background-size: cover;
